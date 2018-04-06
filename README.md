@@ -1,5 +1,6 @@
 # Dog Breed Catalog
 This application displays a catalog of various dog breeds, categorized into the 7 AKC groups (Hound, Terrier, Working, Herding, Sporting, Non-Sporting, Toy). Users are able to log in via Google or Facebook, which then allows them to add breeds to the catalog. They are also able to edit or delete breeds that they added.
+ - Note: content including dog images and descriptions was obtained from [akc.org](http://www.akc.org/).
 
 &nbsp;
 ## Prerequisites
